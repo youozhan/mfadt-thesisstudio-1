@@ -1,4 +1,4 @@
-## Summer Research
+## Summer Research - Mind Wandering
 #### Exploration
 At the Venice Biennale 2018
 
@@ -15,6 +15,10 @@ Resources
 
 [The People's Platform: Taking Back Power and Culture in the Digital Age](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/0805093567)
 
+[Facebook newsroom](https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/)
+
+[The Second Index. Search Engines, Personalization and Surveillance](http://future-nonstop.org/c/609e8e4fa58aa59f8310958c4d2e4e37)
+
 [Instagram and Contemporary Image](http://manovich.net/content/04-projects/148-instagram-and-contemporary-image/instagram_book_manovich.pdf)
 
 [Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)
@@ -30,3 +34,19 @@ The most important design point to solve is the interaction when two people "mee
 
 ![alt text](Assets/walkwithme.png "Walk With Me")
 #### Thoughts
+
+Quotes from *The People's Platform: Taking Back Power and Culture in the Digital Age*
+
+> We are no longer passive consumers but active producers.
+
+> People are beginning to recognize that Silicon Valley platitudes about "changing the world" and mxims like "dont be evil" are not enough to ensure that some of the biggest coporations on Earth will behave well.
+
+> We will create and connect and the entrepreneurs will keep the cash.
+
+Quotes from *Welcome to Airspace*
+
+> Digital platforms like Foursquare are producing "a harmonization of tastes" across the world, Schwarzmann says. "It creates you going to the same place all over again."
+
+What is in the process of the content creation in the year 2018?  How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each of this process being affected by algorithms? Is technology becoming a co-author that always transform the original content? What has been changed?
+
+We feel more segmented and isolated instead of connected more than ever. We get trapped in a digital world in which exabytes of information are produced every year. We are suggested to be customized based on our interest and our personal data. Our news feed and search results are manipulated. Every piece of ourselves is being digitalized and analyzed. No one knows for sure what has been changed and what is in this digital trace that feeds the news and search results. 
