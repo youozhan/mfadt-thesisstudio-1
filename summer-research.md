@@ -28,7 +28,7 @@ Resources
 
 *Walk With Me* is an augmented reality application that visualizes the activities from two different places. By using telepresence, we want to give the audience the feeling of being in a combined space of both locations. It is a collaborative project between Parsons Paris and ECAL. 
 
-We finished the first two design stages in the spring 2018 semester. We created a 2D footprint and an animation of footprint walking. The user will start the experience with entering a room or standing in an open space. The user will then be able to see the other users by tracking their footprints. 
+We finished the first two design stages in the spring 2018 semester. We created a 2D footprint and an animation of footprint walking. The user will start the experience by entering a room or standing in an open space. The user will then be able to see the other users by tracking their footprints. 
 
 The most important design point to solve is the interaction when two people "meet". We wanted to design the experience as a real-time shared action, to share some environmental information and help the audience feel more connected. Therefore, during the summer, we developed a messaging interface for the user to send immediate thought via the interface. The messages will be floating in the air of the combined space. We also added an on-boarding interface and an empty-room interface as an enhancement of the overall workflow. 
 
@@ -51,5 +51,5 @@ What is in the process of content creation in the year 2018?  How does informati
 
 How many of us feel more segmented and isolated instead of being connected more than ever? Are we getting trapped in a digital world in which exabytes of information are produced every year? We are suggested to accept the customization based on our interest and our personal data. Algorithms are manipulating our news feed and search results. Every piece of ourselves including human bodies and mental status is being digitalized and analyzed. However, no one knows for sure what has been changed and what is in this digital trace that feeds the news and search results and why.
 
-This is like picking a rose bunch but getting stung by the stem. We feel this kind of stinging feeling every time when we pick up a smart device and get online. It is not going to be deadly right away. But it is always there and will exist for a longer time. 
+This is like picking a rose bunch but getting stung by the stem. We feel this kind of stinging feeling whenever we pick up a smart device and get online. It is not going to be deadly right away. But it is always there and will exist for a longer time. 
 
