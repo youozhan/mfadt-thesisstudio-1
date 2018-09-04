@@ -4,6 +4,21 @@ At the Venice Biennale 2018
 
 ![alt text](Assets/biennale.png "Biennale 2018")
 
+Research Topics
+* Content creation in the digital age
+* Web 2.0
+* Internet of Things
+* Algorithms
+* Instagram-ism
+
+Resources
+
+[The People's Platform: Taking Back Power and Culture in the Digital Age](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/0805093567)
+
+[Instagram and Contemporary Image](http://manovich.net/content/04-projects/148-instagram-and-contemporary-image/instagram_book_manovich.pdf)
+
+[Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)
+
 #### Collab 
 [Walk With Me](https://github.com/nathanvogel/walk-with-me)
 
