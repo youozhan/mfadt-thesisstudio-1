@@ -39,7 +39,7 @@ Quotes from *The People's Platform: Taking Back Power and Culture in the Digital
 
 > We are no longer passive consumers but active producers.
 
-> People are beginning to recognize that Silicon Valley platitudes about "changing the world" and mxims like "dont be evil" are not enough to ensure that some of the biggest coporations on Earth will behave well.
+> People are beginning to recognize that Silicon Valley platitudes about "changing the world" and maxims like "don't be evil" are not enough to ensure that some of the biggest corporations on Earth will behave well.
 
 > We will create and connect and the entrepreneurs will keep the cash.
 
@@ -47,6 +47,9 @@ Quotes from *Welcome to Airspace*
 
 > Digital platforms like Foursquare are producing "a harmonization of tastes" across the world, Schwarzmann says. "It creates you going to the same place all over again."
 
-What is in the process of content creation in the year 2018?  How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each part of the process being affected by algorithms? Is technology becoming a co-author that transforms the content instead of presenting the original content? What has been changed?
+What is in the process of content creation in the year 2018?  How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each part of the process being affected by algorithms? Will technology transform the content instead of presenting the original content? What has been changed?
 
-We feel more segmented and isolated instead of connected more than ever. We get trapped in a digital world in which exabytes of information are produced every year. We are suggested to be customized based on our interest and our personal data. Our news feed and search results are manipulated. Every piece of ourselves is being digitalized and analyzed. No one knows for sure what has been changed and what is in this digital trace that feeds the news and search results. 
+How many of us feel more segmented and isolated instead of being connected more than ever? Are we getting trapped in a digital world in which exabytes of information are produced every year? We are suggested to accept the customization based on our interest and our personal data. Algorithms are manipulating our news feed and search results. Every piece of ourselves including human bodies and mental status is being digitalized and analyzed. However, no one knows for sure what has been changed and what is in this digital trace that feeds the news and search results and why.
+
+This is like picking a rose bunch but getting stung by the stem. We feel this kind of stinging feeling every time when we pick up a smart device and get online. It is not going to be deadly right away. But it is always there and will exist for a longer time. 
+
