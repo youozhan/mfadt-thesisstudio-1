@@ -47,6 +47,6 @@ Quotes from *Welcome to Airspace*
 
 > Digital platforms like Foursquare are producing "a harmonization of tastes" across the world, Schwarzmann says. "It creates you going to the same place all over again."
 
-What is in the process of the content creation in the year 2018?  How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each of this process being affected by algorithms? Is technology becoming a co-author that always transform the original content? What has been changed?
+What is in the process of content creation in the year 2018?  How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each part of the process being affected by algorithms? Is technology becoming a co-author that transforms the content instead of presenting the original content? What has been changed?
 
 We feel more segmented and isolated instead of connected more than ever. We get trapped in a digital world in which exabytes of information are produced every year. We are suggested to be customized based on our interest and our personal data. Our news feed and search results are manipulated. Every piece of ourselves is being digitalized and analyzed. No one knows for sure what has been changed and what is in this digital trace that feeds the news and search results. 
