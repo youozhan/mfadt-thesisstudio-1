@@ -25,7 +25,7 @@
 
 3. [Self - Portrait](http://olia.lialina.work/)
 
-    This is a guided experience for the audience to make Olia Lialina's self protrait with three browsers: Firefox, Tor and Beaker.
+    This is a guided experience for the audience to make Olia Lialina's self portrait with three browsers: Firefox, Tor and Beaker.
 
     ![alt text](Assets/self-portrait.jpg "Self Portrait")
 
@@ -35,10 +35,27 @@
 
     ![alt text](Assets/unnamed.png "AutocompleteMe")
 
-#### Secondary Textual Resources
-Felix Stalder 
-> lecturer in the Theory of the Media Society at the Zurich University of Arts. His work focusses on the intersection of cultural, political and technological dynamics. He is a founder of Openflows, a long-time moderator of the nettime mailing list, and a board member of the Institute for new Culture Technologies/t0 in Vienna. With the institute, co-organized, among others, the Deep Search conference (2008), and the World Information City conferences, Bangalore (2005) and Paris (2009). He has published most recently Open Cultures and the Nature of Networks (2005), Manuel Castells and the Theory of the Network Society (2006), and, as co-editor, Media Arts Zurich (2008).
+5. [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://www.youtube.com/watch?v=G06dEcZ-QTg)
 
+    *The publisher trained a Generative Adversarial Network using 30,000 celebrity photos.*
+
+    ![alt text](Assets/screenshot.png "Faces")
+
+#### Secondary Textual Resources
+Cormen, Thomas H. Algorithms Unlocked. Cambridge: MIT Press, 2013.
+
+Kelly, Kevin. What Technology Wants. New York: Penguin Books, 2011.
+
+"Lev Manovich." Lev Manovich - Home. Accessed September 10, 2018. http://manovich.net/index.php/projects/instagram-and-contemporary-image.
+
+Taylor, Astra. The Peoples Platform: Taking Back Power and Culture in the Digital Age. New York, NY: Metropolitan Books, 2014.
+
+#### Faculty Resources
 Lev Manovich
-> Professor am Institut für Bildende Kunst an der University of California, San Diego, Kodirektor der Software Studies Initiative am California Institute for Telecommmunications and Information Technology (Calit2), Gastprofessor am
-Goldsmith College, University of London, an der De Montfort University (GB) und am College of Fine Arts, University of New South Wales (Sydney); Buchveröffentlichungen u.a.: Software Takes Command (veröffentlicht unter CC-Lizenz, 2008), Navigating the Database (MIT Press 2005) und The Language of New Media (MIT Press, 2001), das als die „anregendste und umfassendste Mediengeschichte seit Marshall McLuhan“ bezeichnet wurde.
+> an author of books on new media theory, professor of Computer Science at the City University of New York, Graduate Center, U.S. and visiting professor at European Graduate School in Saas-Fee, Switzerland. Manovich's research and teaching focuses on digital humanities, social computing, new media art and theory, and software studies.
+
+Felix Stalder 
+> lecturer in the Theory of the Media Society at the Zurich University of Arts. His work focusses on the intersection of cultural, political and technological dynamics. He is a founder of Openflows, a long-time moderator of the nettime mailing list, and a board member of the Institute for new Culture Technologies/t0 in Vienna.
+
+Fei Liu
+> a New York-based Chinese designer, artist, writer, and DJ exploring digital empathy and the narrative potential of interfaces. She is an adjunct professor at Parsons MFA Design and Technology and previously a Researcher in Residence at NEW INC, and a Digital Solitude fellow at Akademie Schloss Solitude in Stuttgart, Germany.
