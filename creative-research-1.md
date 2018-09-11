@@ -68,7 +68,7 @@ Lev Manovich
 > an author of books on new media theory, professor of Computer Science at the City University of New York, Graduate Center, U.S. and visiting professor at European Graduate School in Saas-Fee, Switzerland. Manovich's research and teaching focuses on digital humanities, social computing, new media art and theory, and software studies.
 
 Felix Stalder 
-> lecturer in the Theory of the Media Society at the Zurich University of Arts. His work focusses on the intersection of cultural, political and technological dynamics. He is a founder of Openflows, a long-time moderator of the nettime mailing list, and a board member of the Institute for new Culture Technologies/t0 in Vienna.
+> lecturer in the Theory of the Media Society at the Zurich University of Arts. His work focuses on the intersection of cultural, political and technological dynamics. He is a founder of Openflows, a long-time moderator of the nettime mailing list, and a board member of the Institute for new Culture Technologies/t0 in Vienna.
 
 Fei Liu
 > a New York-based Chinese designer, artist, writer, and DJ exploring digital empathy and the narrative potential of interfaces. She is an adjunct professor at Parsons MFA Design and Technology and previously a Researcher in Residence at NEW INC, and a Digital Solitude fellow at Akademie Schloss Solitude in Stuttgart, Germany.
