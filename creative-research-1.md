@@ -45,23 +45,23 @@
 #### Secondary Textual Resources
 Cormen, Thomas H. Algorithms Unlocked. Cambridge: MIT Press, 2013.
 
-    This book went through the basics of computer algorithms like search, sort and the fundamentals that make the computer work. 
+>This book went through the basics of computer algorithms like search, sort and the fundamentals that make the computer work. 
 
 "Fragmented Future - Darcy D." Accessed September 10, 2018. http://darcyd.com/fragmented_future.pdf.
 
-    This is an article published in 1999. It predicted the future of web development in web 2.0, about how different devices would appear and the web would need to accommodate with multiple standards. 
+>This is an article published in 1999. It predicted the future of web development in web 2.0, about how different devices would appear and the web would need to accommodate with multiple standards. 
 
 Kelly, Kevin. What Technology Wants. New York: Penguin Books, 2011.
 
-    This book provided a view of the technology as a system instead of a tool that developed by the human.
+>This book provided a view of the technology as a system instead of a tool that developed by the human.
 
 "Lev Manovich." Lev Manovich - Home. Accessed September 10, 2018. http://manovich.net/index.php/projects/instagram-and-contemporary-image.
     
-    Lev Manovich drew a conclusion about the cultural artifacts we created in the platform - Instagram. He mentioned that "cultural identity today is established via small variations and differences" which I think is the essence of the Instagram culture.
+>Lev Manovich drew a conclusion about the cultural artifacts we created in the platform - Instagram. He mentioned that "cultural identity today is established via small variations and differences" which I think is the essence of the Instagram culture.
 
 Taylor, Astra. The Peoples Platform: Taking Back Power and Culture in the Digital Age. New York, NY: Metropolitan Books, 2014.
 
-    It described the changes we are facing in the web 2.0 age, on the contents we produced, and on the contents we consumed.
+>It described the changes we are facing in the web 2.0 age, on the contents we produced, and on the contents we consumed.
 
 #### Faculty Resources
 Lev Manovich
