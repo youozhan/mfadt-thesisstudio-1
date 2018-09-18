@@ -11,6 +11,8 @@
 
 [Publication from Google](https://ai.google/research/pubs/)
 
+[AI system uses transparent, human-like reasoning to solve problems](http://news.mit.edu/2018/mit-lincoln-laboratory-ai-system-solves-problems-through-human-reasoning-0911)
+
 [Experimental evidence of massive-scale emotional contagion through social networks in PNAS](http://www.pnas.org/content/pnas/111/24/8788.full.pdf)
 
 [Algorithm of Oppression](https://nyupress.org/books/9781479837243/)
@@ -52,6 +54,6 @@ Can Mark Zuckerberg Fix Facebook Before It Breaks Democracy?
 #### Notes
 The over-arching questions I am interested in 
 1. how algorithm, as an invention of humans, can be used to change humans mentally and physically
-2. the necessity to achieve algorithmic transparency
+2. why is it necessary to achieve algorithmic transparency
 
 
