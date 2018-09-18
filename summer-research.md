@@ -11,7 +11,7 @@ Research Topics
 * Algorithms
 * Instagram-ism
 
-Resources
+Readings
 
 [The People's Platform: Taking Back Power and Culture in the Digital Age](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/0805093567)
 
@@ -33,7 +33,7 @@ We finished the first two design stages in the spring 2018 semester. We created 
 The most important design point to solve is the interaction when two people "meet". We wanted to design the experience as a real-time shared action, to share some environmental information and help the audience feel more connected. Therefore, during the summer, we developed a messaging interface for the user to send immediate thought via the interface. The messages will be floating in the air of the combined space. We also added an on-boarding interface and an empty-room interface as an enhancement of the overall workflow. 
 
 ![alt text](Assets/walkwithme.png "Walk With Me")
-#### Thoughts
+#### Notes - The "Sting" Feeling
 
 Quotes from *The People's Platform: Taking Back Power and Culture in the Digital Age*
 
@@ -47,9 +47,9 @@ Quotes from *Welcome to Airspace*
 
 > Digital platforms like Foursquare are producing "a harmonization of tastes" across the world, Schwarzmann says. "It creates you going to the same place all over again."
 
-What is in the process of content creation in the year 2018?  How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each part of the process being affected by algorithms? Will technology transform the content instead of presenting the original content? What has been changed?
+What is in the process of content creation in the year 2018? How does information being created, published, and consumed? What are the roles of the search engine and the digital platform? How does each part of the process being affected by algorithms? Will technology transform the content instead of presenting the original content? What has been changed?
 
 How many of us feel more segmented and isolated instead of being connected more than ever? Are we getting trapped in a digital world in which exabytes of information are produced every year? We are suggested to accept the customization based on our interest and our personal data. Algorithms are manipulating our news feed and search results. Every piece of ourselves including human bodies and mental status is being digitalized and analyzed. However, no one knows for sure what has been changed and what is in this digital trace that feeds the news and search results and why.
 
-This is like picking a rose bunch but getting stung by the stem. We feel this kind of stinging feeling whenever we pick up a smart device and get online. It is not going to be deadly right away. But it is always there and will exist for a longer time. 
+The questions appear every time when we wake up and pick up a smart device. It is like picking a rose bunch but getting stung by the stem. It is not going to be deadly right away. But it is always there and will exist for a longer time.
 

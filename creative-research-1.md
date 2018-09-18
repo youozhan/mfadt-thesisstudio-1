@@ -49,7 +49,7 @@ Cormen, Thomas H. Algorithms Unlocked. Cambridge: MIT Press, 2013.
 
 "Fragmented Future - Darcy D." Accessed September 10, 2018. http://darcyd.com/fragmented_future.pdf.
 
->This is an article published in 1999. It predicted the future of web development in web 2.0, about how different devices would appear and the web would need to accommodate with multiple standards. 
+>This is an article published in 1999. It predicted the future of web development in web 2.0, about how different devices would appear and the web would need to accommodate with multiple standards. It demonstrated the thinking process behind estimating the impact of developing a technology. 
 
 Kelly, Kevin. What Technology Wants. New York: Penguin Books, 2011.
 
