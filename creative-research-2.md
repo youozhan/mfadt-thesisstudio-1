@@ -53,7 +53,7 @@ Can Mark Zuckerberg Fix Facebook Before It Breaks Democracy?
 
 #### Notes
 The over-arching questions I am interested in 
-1. how algorithm, as an invention of humans, can be used to change humans mentally and physically
-2. why is it necessary to achieve algorithmic transparency
+1. How algorithm, as an invention of humans, can be used to change humans mentally and physically?
+2. How is algorithm transparency being defined in policy and law in different countries/regions in the world?
 
 
