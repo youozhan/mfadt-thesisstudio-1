@@ -9,6 +9,8 @@ Kate Crawford from AI Now Institute and Viadan Joler from Share Lab created an a
 
 New York City Council met early on a law on algorithmic decision-making transparency. It could have real significance for the rest of the nation. New York is using the algorithm to determine the bail value for indigent defendants.  As AI is pervasive throughout the world, artificial intelligence and big data analytics are increasingly replacing human decision making. [10] EU Commission relates data protection law as part of the rights of citizens. Regardless of where the data is processed and where the company is established, one has the right to obtain access to the personal data held,  to request that decisions based on automated processing concerning, to express the point of view and contest the decision. [11]
 
+#### Reference
+
 [1] Johnston, Michael. Good Governance: Rule of Law, Transparency, and Accountability. 2018. 
 
 [2] Kramer, Adam, Jamie Guillory, and Jeffrey Hancock. "Experimental Evidence of Massive-scale Emotional Contagion through Social Networks." Proceedings of the National Academy of Sciences, 2014, 8788 LP-790.
