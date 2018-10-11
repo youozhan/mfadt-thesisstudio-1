@@ -10,7 +10,7 @@ https://vimeo.com/294088503
 #### Intention
 Keywords: unboxing, dynamics
 
-The first prototype is about creating a workflow that asks the audience to actively request for the disclosure of the mechanics within an algorithm-controlled system. Here I used a button, a mini thermal printer, and the YouTube video watching system. Once the audience presses the button, a piece of paper will be printed out stating the input/output, the process, and the goal of YouTube algorithms.
+The first prototype is about creating a workflow that asks the audience to actively request for the disclosure of the mechanics within an algorithm-controlled system. Here I used a button, a mini thermal printer, and the YouTube video watching system. Once the audience presses the button, a piece of paper will be printed out stating the input/output, the process, and the goal of YouTube algorithms.
 
 #### Material
 - Soft circuit button
