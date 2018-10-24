@@ -6,4 +6,6 @@
 * [Week 4 post](creative-research-3.md)
 ## Part 2 Prototype
 * [Week 5 post](prototyping-1.md)
+* [Week 7 post](prototyping-2.md)
+* [Week 8 post](prototyping-3.md)
 ## Links
