@@ -39,4 +39,4 @@ Why video becomes the most popular medium: The other media forms all have some k
 
 What YouTube didn’t do becomes its strength: YouTube has a relatively fair and transparent filtering, meaning, it is more technical. 
 
-Headline, limit/block, tags: Most of the headlines are paid. It is not clear that how many viewers know about this fact. "Weibo cannot publish all contents from all the creators you follow to you", for a better experience and for more money. In addition, using existing forms (e.g. unboxing)make it more likely to be recommended.
+Headline, limit/block, tags: Most of the headlines (in Weibo) are paid. It is not clear that how many viewers know about this fact. "Weibo cannot publish all contents from all the creators you follow to you", for a better experience and for more money. In addition, using existing forms (e.g. unboxing)make it more likely to be recommended.
