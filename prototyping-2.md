@@ -1,7 +1,7 @@
 #### Form (2nd Iteration)
 ![alt text](Assets/IMG_4440.JPG "Receipt")
 
-This is based on the feedback collected from the first prototype.
+This is based on the feedback collected from the first prototype. It presents the list of services, the data being used, and the list of technologies with a format of receipt as the proof of transactions.  
 
 ![alt text](Assets/IMG_5381.JPG "User Test")
 ![alt text](Assets/IMG_8845.JPG "Receipt")
