@@ -10,7 +10,10 @@ Two possible forms of physical setup
 ![alt text](Assets/social.png "Exhibition")
 
 #### Process
-Arduino code [sketch_oct04a.ino](Code/sketch_nov01a.ino)
+Arduino code 
+[sketch_oct01a.ino](Code/sketch_nov01a.ino)
+[sketch_oct01b.ino](Code/sketch_nov01b.ino)
+[sketch_oct01c.ino](Code/sketch_nov01c.ino)
 
 #### Reflection
 * The connection between "Sleep no more" with recommendation algorithms
