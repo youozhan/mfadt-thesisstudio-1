@@ -23,3 +23,13 @@ Arduino code
 * Like the idea of translating the algorithm. We are getting things most people have no clue. Always think that the prediction did a bad job.
 * Need to think about what are you hoping for, what are the takeaways.
 * The labor of watching the ads, # of ads
+* The search history prompts out becuase (the user) is familar with the form of the query
+* Feels like a statement when you opt in and works like a disclaimer
+* It tells the information inferred about me based on my data
+* "I would never expect it to be physically printed as this all happens in a digital world"
+* All the prototypes construct a whole story of what algorithm assumes about me
+* "I am interested in technologies so I would like to understand more about exact pattern recognition and cookies, how are things fed into things"
+
+#### Methods of evaluation
+
+#### Community of Practice
