@@ -9,3 +9,5 @@
 * [Week 7 post](prototyping-2.md)
 * [Week 8 post](prototyping-3.md)
 ## Links
+[Milestone Paper - Research](Milestone Paper - Research.pdf)
+[Milestone Paper - Prototype](Milestone Paper - Prototype.pdf)
