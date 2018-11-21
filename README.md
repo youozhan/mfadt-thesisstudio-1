@@ -9,6 +9,5 @@
 * [Week 7 post](prototyping-2.md)
 * [Week 8 post](prototyping-3.md)
 ## Links
-[Milestone Paper - Research](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Research.pdf)
-
-[Milestone Paper - Prototype](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Prototype.pdf)
+* [Milestone Paper - Research](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Research.pdf)
+* [Milestone Paper - Prototype](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Prototype.pdf)
