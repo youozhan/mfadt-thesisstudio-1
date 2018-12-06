@@ -11,7 +11,7 @@
 
 [The Black Box Society](http://www.hup.harvard.edu/catalog.php?isbn=9780674368279)
 
-> The Black Box Society asks the question of how secrecy has become so important to industries ranging from Wall Street to Silicon Valley and again emphasizes on the fact that the algorithmic control has gone beyond the money and information and into every aspect of the everyday life. 
+> *The Black Box Society* asks the question of how secrecy has become so important to industries ranging from Wall Street to Silicon Valley and again emphasizes on the fact that the algorithmic control has gone beyond the money and information and into every aspect of the everyday life. 
 
 [Anatomy of AI](https://anatomyof.ai)
 > Kate Crawford from AI Now Institute and Vladan Joler from Share Lab presented this anatomical map of Amazon Echo. Although the system and the interaction can be viewed as simply as a combination of a command plus a response, there are more underneath: chains of resource extraction, human labor, algorithmic processing, and logistics. 
