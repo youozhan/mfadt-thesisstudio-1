@@ -29,8 +29,3 @@ Arduino code
 * "I would never expect it to be physically printed as this all happens in a digital world"
 * All the prototypes construct a whole story of what algorithm assumes about me
 * "I am interested in technologies so I would like to understand more about exact pattern recognition and cookies, how are things fed into things"
-
-#### Methods of evaluation
-
-
-#### Community of Practice
