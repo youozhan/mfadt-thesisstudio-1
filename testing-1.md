@@ -1,0 +1,1 @@
+![alt text](Assets/IMG_1322.png "Networked printer")
