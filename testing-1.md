@@ -36,7 +36,7 @@ Once AdSense is set up, Google automatically delivers ads that are targeted to t
 #### Social Blade
 https://socialblade.com/info
 
-Once AdSense is set up, Google automatically delivers ads that are targeted to the content. The targeting could be based on keyword analysis, word frequency, advertisers' specific ad placements, users' interests, demographics and other criteria. 
+Social Blade compiles data from YouTube, Twitter, Twitch, Daily Motion, and Instagram and uses the data to make statistical graphs and charts that track progress and growth. Social Blade currently tracks 23+ million YouTube channels. Social Blade has an estimated CPM however it has a wide range. 
 
 #### PewDiePie
 
