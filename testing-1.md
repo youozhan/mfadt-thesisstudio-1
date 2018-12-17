@@ -5,15 +5,16 @@
 * Raspberry pi setup
 * Thermal printer guts setup
 * Networked printer setup
-* Receipt of content publisher and the labor of watching the ads reflecting the content monetization process
+* Receipt of content publishers and the labor of watching the ads reflecting the content monetization process
 
-It uses the statistics of 
+By clicking on the "Print" button on any laptop in the network, the printer will print out a pre-formatted receipt of a content publisher (PewDiePie) based on his statistics from YouTube API. s
 
 #### Content Monetization
  As of July 2015, more than 400 hours of video were uploaded to YouTube every minute. As of September 2018, the number of subscribers of the most popular YouTube channels has reached over 65 million. The top channels on YouTube are mostly categorized into gaming, comedy, or how-to. 
 
 [How YouTube Developed into a Successful Platform for User-Generated Content]( http://www.inquiriesjournal.com/articles/1477/how-youtube-developed-into-a-successful-platform-for-user-generated-content )
 
+ >  "If the pre-Google era of YouTube is characterized by amateur-produced videos in an ad-free environment, the post-Google purchase stage is characterized by professionally generated videos in an ad-friendly environment. Because of YouTube's popularity, industries have shown a deep interest in monetizing it"
 
 [How Much Traffic Do You Need To Make $100,000 With Google AdSense](https://www.minterest.com/how-much-traffic-do-you-need-to-make-money/)
 
