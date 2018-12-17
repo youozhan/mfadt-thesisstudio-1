@@ -7,7 +7,7 @@
 * Networked printer setup
 * Receipt of content publishers and the labor of watching the ads reflecting the content monetization process
 
-By clicking on the "Print" button on any laptop in the network, the printer will print out a pre-formatted receipt of a content publisher (PewDiePie) based on his statistics from YouTube API. The main idea embedded inside this receipt are, the process of content monetization, the statistics that YouTube creators are working for, further analysis (ranking, future projection) that can be made with these statistics.
+By clicking on the "Print" button on any laptop in the network, the printer will print out a pre-formatted receipt of a content publisher (PewDiePie) based on his statistics from YouTube API. The main idea embedded inside this receipt is the process of content monetization, the statistics that YouTube creators are working for, further analysis (ranking, future projection) that can be made with these statistics.
 
 #### Content Monetization
  As of July 2015, more than 400 hours of video were uploaded to YouTube every minute. As of September 2018, the number of subscribers of the most popular YouTube channels has reached over 65 million. The top channels on YouTube are mostly categorized into gaming, comedy, or how-to. 
