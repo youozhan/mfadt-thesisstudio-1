@@ -31,13 +31,13 @@ By clicking on the "Print" button on any laptop in the network, the printer will
 #### Ad Targeting
 https://support.google.com/adsense/answer/9713?hl=en&ref_topic=1628432
 
-Once AdSense is set up, Google automatically delivers ads that are targeted to the content. The targeting could be based on keyword analysis, word frequency, advertisers' specific ad placements, users' interests, demographics and other criteria. 
+Once AdSense is set up, Google automatically delivers ads that are targeted to the content. The targeting could be based on keyword analysis, word frequency, advertisers' specific ad placements, users' interests, demographics, and other criteria. 
 
 #### Social Blade
 https://socialblade.com/info
 
-Social Blade compiles data from YouTube, Twitter, Twitch, Daily Motion, and Instagram and uses the data to make statistical graphs and charts that track progress and growth. Social Blade currently tracks 23+ million YouTube channels. Social Blade has an estimated CPM however it has a wide range. 
+Once AdSense is set up, Google automatically delivers ads that are targeted to the content. The targeting could be based on keyword analysis, word frequency, advertisers' specific ad placements, users' interests, demographics and other criteria. 
 
 #### PewDiePie
 
-He is a Swedish YouTuber, comedian and video game commentator. He's known as the owner of the most-subscribed YouTube channel.
+He is a Swedish YouTuber, comedian, and video game commentator. He's known as the owner of the most-subscribed YouTube channel.
