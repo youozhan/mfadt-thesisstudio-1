@@ -14,4 +14,5 @@
 ## Links
 * [Milestone Paper - Research](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Research.pdf)
 * [Milestone Paper - Prototype](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Prototype.pdf)
-* [Milestone Paper - Testing]()
+* [Milestone Paper - Testing](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Milestone%20Paper%20-%20Testing.pdf)
+* [Final Studio Summary](https://github.com/youozhan/mfadt-thesisstudio-1/blob/master/Final%20Studio%20Summary.pdf)
